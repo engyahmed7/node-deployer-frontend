@@ -1,4 +1,4 @@
-# WeBuild Backend
+# WeBuild Frontend
 
 Welcome to the WeBuild Backend repository. This README serves as a comprehensive guide to the project's structure, setup instructions, features, API endpoints, additional information, resources, and contributions.
 
